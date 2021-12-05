@@ -1,0 +1,23 @@
+.bg{
+    background-color:  #153638 !important;
+    background: #153638 !important;
+}
+.onh:hover{
+    color: green !important;
+}
+.drp:hover{
+
+    background-color: white !important;
+}
+.c{
+    width: 50%;
+    height:20% !important;
+    
+    /* overflow: hidden; */
+    display: flex;
+    flex-direction: row;
+}
+/* .ps{
+    position: sticky;
+    top: 1%;
+} */
